@@ -1,0 +1,74 @@
+-Q: PLEASE TELL ME, WHY ARE YOU IN THIS DUNGEON?????
+1. I come here to seek refuge. The outside world is far more dangerous.
+2. I’m here for love.                                                                                               3. I’m here to serve as a loyal slave for the dungeon master.                                 4. I’m just lost.                                                                                                         Your choice is: (press space and then answer)
+*
+-after clearing the first room, a figure suddenly appears behind the hero--
+-??: BOO.
+-Hero: What the…!
+-??: HEY! HAVE YOU PICKED WHO YOU ARE?
+-Hero: …yes?
+-??: AND HOW DO YOU LIKE MY DUNGEON? ARE YOU HAPPY WITH WHAT I’VE BEEN PREPARING FOR YOU? DO YOU FEEL AT HOME?
+-Hero:
+1. Fight
+2. Leave                                                                                                                  3. Hello…? You’re…?                                                                                             Your choice is: (press space and then answer)
+*
+-DM: I AM THE DUNGEON MASTER.
+-Hero:
+1. You don’t need to talk in all caps. You’re not being intimidating.
+2. Nice to meet you Dungeon Master. How should I address you?                       3. I’m scared.                                                                                                           4. PREPARE TO DIE!                                                                                              Your choice is: (press space and then answer)
+*
+-DM: OMNIPOTENCE IS MY NAME.
+-Hero:
+1. Oh, nice to meet you, Dungeon Omnipotence Master.
+2. Are you really omnipotent?                                                                                3. Should I be scared?                                                                                           4. PREPARE TO DIE!                                                                                          Your choice is: (press space and then answer)
+*
+-DM: Okay, alright, you couldn't remember who I am, and now you’re questioning my omnipotence, all good signs. I guess I’ve messed with your cognitive system a bit too much when transporting you here. I’m sorry. But never mind. Did you enjoy the killing?
+-Hero:
+1. Why do I know so well how to swing a sword, and am so willing to slash at others with it, even if it’s only for my own survival?
+2. Cleansing those nasty goblins was no challenge. Wait until I try out the big bosses.
+3. No, I enjoy dating hot NPCs. Do you have any of those in store?
+4. NOW I’M GONNA ENJOY IT MORE.                                                                     Your choice is: (press space and then answer)
+*
+-DM:... 
+-Maybe don't try too hard rationalizing my question? I only want to know if you enjoyed it. It’s an impulsive thing. Is the voice in your head telling you to kill more?
+-Hero:
+1. Yes.
+2. No.                                                                                                                         3. First of all, it’s not an impulse; it’s my decision. Just like how I decided my reason for being here.                                                                                       Your choice is: (press space and then answer)
+*
+-DM:
+(1) Good. Go kill or be killed then. Spend your life whatever you want, not that it’s gonna matter in my dungeon anyway.
+(2) Good. Try your best to hide and survive then. Spend your life whatever you want, not that it’s gonna matter in my dungeon anyway.
+(3) No no, only mine are decisions. It’s always impulses for you lot. Now spend your life whatever you want, not that it’s gonna matter in my dungeon anyway.
+Hero: Wait, what do you mean “it’s not gonna matter in your dungeon”?
+-DM: …
+Hero: Hello??
+DM: See these doors? Each of them leads to another box-shaped room, which will have more doors leading to more box-shaped rooms. Even if you manage to break the floor or the ceiling, you end up in some other rooms. Box-shaped rooms will be all you see. 
+Hero: But… isn’t there an end? Somewhere? Sometime?
+DM: There will be destinations, once in a while. You’re welcomed to take those final doors, and feel accomplished. Then you will always return to here: the beginning. As proud as I am of my dungeon, I didn’t come up with a spatial plan for it, so the only way you can go is to run from one room into a different one, again and again. What do you think?
+Hero:
+1. Get me out of here immediately!
+2. Fine. Make it worse then. Take me deeper.
+3. I’m glad you asked. I WILL FUCKING KILL YOU. (fight)
+DM: (1, 2) I won’t. This is just how it is. 
+Hero: …
+DM: …
+Hero: …
+DM: Unless… Hey. (suddenly pokes at the hero)
+Hero: Unless what?
+DM: Unless you kill me.
+Hero: How’s that possible? Aren’t you omnipotent?
+DM: One good thing about being omnipotent is that being killed no longer matters to me. Perhaps it still matters to you, though.
+Hero:
+1. But I don’t wanna kill you.
+2. Why? How’s that gonna change anything? 
+3. You’re insane.
+4. I CAN?! (fight)
+DM: (1, 2, 3) I don’t think you would understand, but I really, really want you to kill me. That might change something. We will see. As for now, I’ll leave you be. Do stay alive and thrive for me, alright?
+Hero:
+1. Wait, I have too many questions…
+2. Don’t leave me alone…
+3. See ya later.
+4. I don’t wanna see you ever again.
+5. LET’S END THIS RIGHT HERE RIGHT NOW.
+
+<DM disappears.>

@@ -1,0 +1,56 @@
+-
+???: Please tell me, why have you come to this dungeon?
+
+
+
+(Press SPACE to continue)
+-
+*
+1. I come here to seek refuge. The outside world is far more dangerous.
+2. I’m here to find love.
+3. I’m here to serve as a loyal slave for the dungeon master.
+4. I’m just lost.
+(Press a number to select an option)
+*
++
+You: I come here to seek refuge. The outside world is far more dangerous.
+
+Your attack damage has increased!
+
+(Press SPACE to continue)
++
++
+You: I’m here to find love.
+
+Your health has increased!
+
+(Press SPACE to continue)
++
++
+You: I’m here to serve as a loyal slave for the dungeon master.
+
+Your attack range has increased!
+
+(Press SPACE to continue)
++
++
+You: I’m just lost.
+
+Your speed has increased!
+
+(Press SPACE to continue)
++
+-
+???: I see...
+
+
+
+(Press SPACE to continue)
+-
+-
+???: Well, once you press SPACE, be prepared to fight!
+
+
+
+(Press SPACE to continue)
+-

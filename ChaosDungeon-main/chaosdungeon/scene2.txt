@@ -1,0 +1,287 @@
+-
+???: (stare…)
+
+
+
+
+-
+-
+You: …
+
+
+
+
+-
+-
+???: How do you like my dungeon?
+
+
+
+
+-
+-
+You: …
+
+
+
+
+-
+-
+???: Are you happy with what I’ve been preparing for you? Do you feel at home?
+
+
+
+-
+-
+You: Hello…? You’re…?
+
+
+
+
+-
+-
+???: You don’t seem too energetic, or curious. Are my questions scaring you? I thought you like questions.
+
+
+-
+*
+1.I don't mind questions at all. May I know how to address you?
+2.Well, nice to meet you too, creep. 
+3.I do have a bunch of questions for you, though. First…
+4.I'm more of a "slash first, ask questions later" kind of guy.
+
+
+
+
+*
+~
+You: I don't mind questions at all. May I know how to address you?
+
+
+
+~
+~
+You: Well, nice to meet you too, creep. 
+
+
+
+
+~
+~
+You: I do have a bunch of questions for you, though. First…
+
+
+~
+~
+You: I'm more of a "slash first, ask questions later" kind of guy.
+
+
+
+~
+-
+DM: Oh, are you greeting? Hello, I’m the OMNIPOTENT Dungeon Master. 
+
+
+
+-
+*
+1.What kind of parents gave you that name?
+2.Aren’t you gonna ask about who I am? I might be an omnipotent dungeon master too.
+3.Nice to meet you, the omnipotent-in-caps Dungeon Master. 
+4.Listen, you seem to know one thing or two about this place, so…
+
+
+
+
+
+*
+~
+You: What kind of parents gave you that name?
+
+
+
+
+~
+~
+You: Aren’t you gonna ask about who I am? I might be an omnipotent dungeon master too.
+
+
+
+~
+~
+You: Nice to meet you, the omnipotent-in-caps Dungeon Master. 
+
+
+
+~
+~ 
+You: Listen, you seem to know one thing or two about this place, so…
+
+
+
+~
+-
+DM: Okay, okay. I know you don't like questions. I will not ask you more questions, so don’t be scared ...Well, maybe just one more question. Did you enjoy the killings?
+
+
+
+-
+*
+1. I did, but somehow I think I shouldn’t.
+2. I enjoy powerups, boss fights and hot NPCs. Do you have any of those in store?
+3. I enjoy getting out of here alive, that’s all.
+4. I’ll enjoy it more when I get you.
+
+
+
+*
+~
+You: I did, but somehow I think I shouldn’t.
+
+
+
+
+~
+~
+You: I enjoy powerups, boss fights and hot NPCs. Do you have any of those in store?
+
+
+
+~
+~
+You: I enjoy getting out of here alive, that’s all.
+
+
+
+~
+~
+You: I’ll enjoy it more when I get you.
+
+
+
+
+~
+-
+DM: Uh, okay, that’s not what I wanted to hear. I guess I’ll just leave you here longer then, until you become an OMNIPOTENT killer. Fortunately I’ve created enough rooms for you, so you shouldn’t be able to go anywhere.
+
+
+-
+-
+You: Can't you just listen to what I'm saying for a minute?!
+
+
+
+-
+-
+DM: ...scary...
+
+
+
+
+-
+*
+1. Okay, I get it that you’re super insane and probably powerful and have kept me as your personal pet.
+2. You know what I think about all this bull***t?...
+3. You rule here, boss. Just one small thing...
+4. This isn’t real… 
+
+
+
+
+*
+~
+You: Okay, now I know you’re super insane and probably powerful and have kept me as your personal pet.
+
+
+~
+~
+You: You know what I think about all this bull***t?...
+
+
+
+~
+~
+You: You rule here, boss. Just one small thing...
+
+
+
+~
+~
+You: This isn’t real… 
+
+
+
+
+~
+*
+1. ...I only need you to tell me there’s an end to all this.
+2. ...I don’t even think any of these matters to you. F*** everything in this dungeon.
+3. ...Anything else you want me to do besides massacring every living being?
+4. ...Mommy and daddy, where are you...
+
+
+*
+~
+You: ...I only need you to tell me there’s an end to all this.
+
+
+
+~
+~
+You: ...I don’t even think any of these matters to you. F*** everything in this dungeon.
+
+
+
+~
+~
+You: ...Anything else you want me to do besides massacring every living being?
+
+
+
+
+~
+~
+You: ...Mommy and daddy, where are you...
+
+
+
+~
+-
+DM: Oh, now it’s scheming. I messed up again. Sorry. I’m really sorry. Just give me some time. I’ll see you soon.
+
+
+-
+*
+1. Wait, wait, wait, come back!
+2. This is so weird...
+3. Run while you can.
+4. (silently move on to the next room.)
+
+*
+~
+You: Wait, wait, wait, come back!
+
+
+
+
+~
+~
+You: This is so weird...
+
+
+
+
+~
+~
+You: Run while you can.
+
+
+
+
+~
+~
+You: (silently move on to the next room.)
+
+
+
+~

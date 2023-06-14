@@ -1,0 +1,284 @@
+-
+Fairy: Hello. 
+
+
+-
+*
+1. Hi.
+2. F*** off.
+3. Please tell me you're not Dungeon Master in disguise.
+4. Whoever you are, you’d better bring me some good news.
+
+
+
+*
+~
+You: Hi.
+
+
+~
+~
+You: F*** off.
+
+
+~
+~
+You: Please tell me you're not Dungeon Master in disguise.
+
+
+
+~
+~
+You: Whoever you are, you’d better bring me some good news.
+
+
+~
+-
+Fairy: I didn’t mean to confuse you. I just have something to show you. Here. You can take one of these as a gift from me, for helping me gather food. Take this as a token of my gratitude. 
+
+
+-
+-
+You: You mean those monsters I’ve just slain? I don’t see them as food… for now. More like I’m food in their eyes.
+
+
+-
+-
+Fairy: What an interesting perspective on your prey! Well, to further erase your worries of starving to death or having to devour your prey for survival someday, I offer you my blessings. They will infuse you with more than enough energy you need for fights and flights. By the way, they’re toxic-free, organic, and delicious. 
+
+
+-
+-
+You: But how are you so sure your blessings will work on me? We’re like two totally different… species.
+
+
+
+-
+-
+Fairy: Oh, I’m so sorry about that! I had been making them for a friend, who looked very similar to you, so I might’ve just assumed…
+
+
+-
+-
+You: If you don't mind, I still need to know what they are exactly made of, before I ever try one.
+
+
+-
+-
+Fairy: Let’s just say, I’m better at managing resources than most creatures here.
+
+
+-
+-
+You: That’s not exact enough.
+
+
+-
+-
+Fairy: … Well, I mean, I’m just very efficient at digesting essential nutrients and storing the excess energy I expelled for other uses… See, that’s also why I don’t want you to eat those monsters. They’ll be bad for your stomach! 
+
+
+-
+*
+1. The way you phrase it… sounds weird. 
+2. The way you phrase it… sounds strangely enticing. 
+3. I don't wanna eat skeletons either.
+4. No comment on your recipes.
+
+
+*
+~
+You: The way you phrase it… sounds weird. 
+
+
+~
+~
+You: The way you phrase it… sounds strangely enticing. 
+
+
+~
+~
+You: I don't want myself to eat those skeletons either.
+
+
+~
+~
+You: No comment on your recipes.
+
+
+~
+-
+Fairy: So… deal?
+
+
+-
+*
+1. I’d love to… I just need some extra motivation to make the decision. Give me a second.
+2. No wonder you have so much wasted energy to spare. 
+3. I don’t feel good about killing other creatures for a trade.
+4. Why not keep these blessings to yourself for the hard times?
+
+
+*
+~
+You: I’d love to… I just need some extra motivation to make the decision. Give me a second.
+
+
+~
+~
+You: No wonder you have so much wasted energy to spare. 
+
+
+~
+~
+You: I don’t feel good about killing other creatures for a trade.
+
+
+~
+~
+You: Why not keep these blessings to yourself for the hard times?
+
+
+~
+-
+Fairy: Okay, how about a deal with a friend, then? A friend who wants to help you and needs your trust? …Um, sorry if I’m being too aggressive. I’m so obsessed with old memories…
+
+
+-
+*
+1. A mutual relationship you mean. Fine by me.
+2. Not so fast. I'm not your friend, for now.
+3. Why not? It’s good to have company here. 
+4. This whole thing still feels like manipulation to me.
+
+
+
+*
+~
+You: A mutual relationship you mean. Fine by me.
+
+
+
+~
+~
+You: Not so fast. I'm not your friend, for now.
+
+
+
+~
+~
+You: Why not? It’s good to have company here.
+
+
+
+~
+~
+You: This whole thing still feels like manipulation to me.
+
+
+~
+-
+Fairy: What else should I do… You know what? To prove that I’m doing this mostly for your sake, I’ll show up every time you’ve cleared a room to give you one of my blessings. How does that sound?
+
+
+-
+*
+1. Sure. Are you coming with me?
+2. Okay. How will I find you again?
+3. Not bad. How will you find me again?
+4. We'll see. Are we parting ways soon? 
+
+
+*
+~
+You: Sure. Are you coming with me?
+
+
+~
+~
+You: Okay. How will I find you again?
+
+
+~
+~
+You: Not bad. How will you find me again?
+
+
+~
+~
+You: We'll see. Are we parting ways soon?
+
+
+~ 
+-
+Fairy: I'll leave you with my blessing. Once you’ve imbibed it, I will be able to identify and track your semiochemicals, and then I can just teleport to any identified target! In the meantime, let’s try to keep ourselves safe.
+
+-
+*
+1. See you later.
+2. Good luck. Don't get killed.
+3. Please remember your promise.
+4. Do teach me teleportation someday.
+
+
+*
+~
+You: See you later.
+
+
+~
+~
+You: Good luck. Don't get killed.
+
+
+~
+~
+You: Please remember your promise.
+
+
+~
+~
+You: Do teach me teleportation someday.
+
+
+~
+-
+What blessing would you like?
+
+
+(Press SPACE to continue)
+-
+*
+1. Please grant me more attack damage!
+2. Please grant me increased maximum health!
+3. Please grant me more attack range!
+4. Please heal me!
+*
++
+You: Please grant me more attack damage!
+
+Your attack damage has increased!
+
+(Press SPACE to continue)
++
++
+You: Please grant me increased maximum health!
+
+Your health has increased!
+
+(Press SPACE to continue)
++
++
+You: Please grant me more attack range!
+
+Your attack range has increased!
+
+(Press SPACE to continue)
++
++
+You: Please heal me!
+
+You have been fully healed!
+
+(Press SPACE to continue)
++

@@ -1,0 +1,41 @@
+-
+Fairy: For clearing this room, I shall grant you power. What power would you like?
+
+
+(Press SPACE to continue)
+-
+*
+1. Please grant me more attack damage!
+2. Please grant me increased maximum health!
+3. Please grant me more attack range!
+4. Please heal me!
+(Press a number to select an option)
+*
++
+You: Please grant me more attack damage!
+
+Your attack damage has increased!
+
+(Press SPACE to continue)
++
++
+You: Please grant me increased maximum health!
+
+Your health has increased!
+
+(Press SPACE to continue)
++
++
+You: Please grant me more attack range!
+
+Your attack range has increased!
+
+(Press SPACE to continue)
++
++
+You: Please heal me!
+
+You have been fully healed!
+
+(Press SPACE to continue)
++
